@@ -10,6 +10,6 @@ Keywords: mentions,listening,triage,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-mentions
-- Core contract: https://github.com/pooriaarab/agentic-mentions/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-mentions
+- Core contract: https://github.com/itsryanarmani/agentic-mentions/blob/main/docs/agentic-core.md
 - License: MIT

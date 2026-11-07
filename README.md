@@ -138,7 +138,7 @@ Any publishable content from a downstream AI workflow must include an appropriat
 ## Status
 
 Version 0.1.0 is early; interfaces can change. Public case studies are not yet published in this repository.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-mentions/issues) for support.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-mentions/issues) for support.
 
 ## FAQ
 
